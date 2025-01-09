@@ -1,3 +1,6 @@
 [submodule "sharedlibrarypost/sharedlibrarypost/packagereferences"]
 	path = sharedlibrarypost/sharedlibrarypost/packagereferences
 	url = https://github.com/sergiovenicius/basesharedlibrary
+[submodule "sharedlibrarypost/packagereferences"]
+	path = sharedlibrarypost/packagereferences
+	url = https://github.com/sergiovenicius/basesharedlibrary
