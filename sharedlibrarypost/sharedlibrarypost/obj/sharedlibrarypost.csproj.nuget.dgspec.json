@@ -52,14 +52,14 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )",
+              "version": "[6.3.0, )",
               "versionCentrallyManaged": true
             }
           },
           "centralPackageVersions": {
             "Microsoft.AspNetCore.OpenApi": "8.0.6",
             "Newtonsoft.Json": "13.0.1",
-            "Swashbuckle.AspNetCore": "6.4.0"
+            "Swashbuckle.AspNetCore": "6.3.0"
           },
           "imports": [
             "net461",
