@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sharedlibrarypost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+552ef668a0d5d984708c3d277cafd292dd320c18")]
 [assembly: System.Reflection.AssemblyProductAttribute("sharedlibrarypost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sharedlibrarypost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,6 +13,7 @@
         "packagesPath": "/Users/sergiovvanin/.nuget/packages/",
         "outputPath": "/Users/sergiovvanin/Documents/repo2/sharedlibrarypost/sharedlibrarypost/sharedlibrarypost/obj/",
         "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
           "/Users/sergiovvanin/.nuget/NuGet/NuGet.Config"
         ],
@@ -46,12 +47,19 @@
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "(, )"
+              "version": "[8.0.6, )",
+              "versionCentrallyManaged": true
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "(, )"
+              "version": "[6.4.0, )",
+              "versionCentrallyManaged": true
             }
+          },
+          "centralPackageVersions": {
+            "Microsoft.AspNetCore.OpenApi": "8.0.6",
+            "Newtonsoft.Json": "13.0.1",
+            "Swashbuckle.AspNetCore": "6.4.0"
           },
           "imports": [
             "net461",
